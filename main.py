@@ -78,4 +78,4 @@ if __name__ == '__main__':
     uid = loggin(stuno, password, school)
     getinfo(stuno, uid, school)
     upload(stuno, school, uid, "2345.0", "3.3", 648)
-    getinfo(stuno, uid, schoolv)
+    getinfo(stuno, uid, school)
